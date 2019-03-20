@@ -6,15 +6,24 @@ permalink: /
 # <img src="assets/logo.png" alt="class logo" class="logo"/> 
 # <img src="assets/jilinUniversitylogo.png" alt="class logo" class="logo"/> 
 # Numerical Algorithm
+[//]: # (comment)
 
-* **Course:** [INFO1-CE9766, NYU SCPS](http://scps.nyu.edu/content/scps/academics/course_detail.html?id=INFO1-CE9766)
-* **Instructor:** Aidan Feldman, [alf9@nyu.edu](mailto:alf9@nyu.edu)
-* **Need help?**
-    * [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/advanced-js/syllabus?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+[//]: # (* **Course:** [INFO1-CE9766, NYU SCPS](http://scps.nyu.edu/content/scps/academics/course_detail.html?id=INFO1-CE9766))
+[//]: # (* **Instructor:** Aidan Feldman, [alf9@nyu.edu](mailto:alf9@nyu.edu)
+[//]: # (* **Need help?**)
+[//]: # (    * [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/advanced-js/syllabus?     utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
         * It sends message digests to people who aren't active in the room, so feel free to ask a question even if no one's around.
     * Look through and create [issues](https://github.com/advanced-js/syllabus/issues)
     * Office Hours during [Hacker Hours](http://hackerhours.org/) (see [schedule](http://www.meetup.com/hackerhours/events/calendar/))
    * [Email](mailto:alf9@nyu.edu) for 1-on-1 help, or to set up a time to meet
+   
+
+
+* **Discussion:** If you'd like to discuss anything to do with the course you can write a message on Gitter (please note these are publicly visible, student only rooms will be created in due course)
+   * [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/OOPA2018/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+* **Bugs/Suggestions:** If you find any bugs in this syllabus or would like to make a suggestions please raise an [issue](https://github.com/OOPA2018/syllabus/issues) (GitHub account required)
+* **Updates:** The syllabus will be updated to include links to lectures and problem sheets as they get released. Minor modifications may also happen. Please [watch it](https://help.github.com/articles/watching-and-unwatching-repositories/) to get notified of any changes (GitHub account requried)
+
 
 ## Course Description
 
