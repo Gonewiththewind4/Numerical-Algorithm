@@ -67,6 +67,7 @@ All assignments are listed within the [Content Outline](#content-outline).
 
 ### MC
 
+
 ### Advanced Topic
 
 
@@ -116,12 +117,8 @@ Enabling `Edit`->`Automatically Sync after Committing` is recommended. Here are 
 1. Clone the repository to your computer.
 1. Make sure all of your code is committed.
 1. Push/sync up to GitHub.
-1. [Create a pull request](https://help.github.com/articles/creating-a-pull-request/) on the original repository. All assignments are due at the start of the following class, unless otherwise specified.
-1. You can continue to push fixes and improvements until the close date (listed in Classes) – just add a comment in the pull request to let me know it's been updated.
+1. [Create a pull request](https://help.github.com/articles/creating-a-pull-request/) on the original repository.
 
-When the pull request is created, you should see a message saying that "the Travis CI build is in progress" – this means that your solution is being automatically checked for syntax errors.  If this "build" ends up failing (which will show a red "X"), click through the "details" link and scroll to the bottom to see what the errors were.  Per the [requirements](#requirements) below, please fix the issues and push up the changes.
-
-Feedback will be given in the pull request, so please respond with your thoughts and questions!  You are welcome to open the pull request early as a work-in-progress if you are stuck and want to ask a question.  Note that your solution will also be live at `http://USERNAME.github.io/EXERCISE`.
 
 
 ### Program Skill Requirements
@@ -142,6 +139,5 @@ These apply to real life, as well.
 * Javascript reference [advanced-js/syllabus](https://github.com/advanced-js/syllabus)
 
 ### More Examples
-
-* 
+(Continue to upload later)
 
