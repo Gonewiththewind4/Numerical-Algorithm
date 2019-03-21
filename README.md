@@ -77,9 +77,7 @@ For exercises with multiple Versions (`V1`, `V2`, etc.) listed in the README: th
 
 These apply to real life, as well.
 
-* [Travis CI](https://docs.travis-ci.com/) build should pass, which includes:
-    * All HTML files should pass [W3C Markup Validation](http://validator.w3.org).
-    * All written JS should pass [JSHint](http://jshint.com).
+* [Travis CI](https://docs.travis-ci.com/) build should pass if you want to use it. For matlab codes, please try Jenkins for continous integration.
 * Must apply "good programming style" learned in class
     * Functions should be "short" (see [Sandi Metz's rules for developers](https://robots.thoughtbot.com/sandi-metz-rules-for-developers)).
     * Optimize for readability.
@@ -88,13 +86,6 @@ These apply to real life, as well.
     * For projects, use Object-Oriented Programming.
 * Any borrowed code must be properly [annotated](#instructor).
 
-#### Extra Credit
-
-Bonus points for:
-
-* Automated tests
-* Creativity (as long as requirements are fulfilled)
-* Anything listed under `BONUS` in the README of the exercise.
 
 ## Course Outline
 
