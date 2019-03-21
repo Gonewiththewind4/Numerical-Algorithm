@@ -9,7 +9,7 @@ permalink: /
 [//]: # (comment)
 
 
-* **Instructor:** Hans King, [3113488751@qq.com](mailto:3113488751@qq.com)
+* **Instructor:** Gonewiththewind4(Hans King), [3113488751@qq.com](mailto:3113488751@qq.com)
 
 * **Discussion:** If you'd like to discuss anything to do with the content you can write a message on Gitter 
    * [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/Numerical-Algorithm/community#)
@@ -18,16 +18,15 @@ permalink: /
 
 
 ## Numerical Algorithm Repository Description
-
+In this repository, we will state several practically numerical algorithm initially, and show the examples and codes which can you have explicit understanding about the algorithms. Later, we will follow some cutting-edge papers about numerical algorithms, do the code reproduction, and share in this repository.
 
 ## Prerequisites
 
-* [INFO1-CE9755 - JavaScript](http://scps.nyu.edu/content/scps/academics/course_detail.html?id=INFO1-CE9755) ([syllabus](http://samsultan.com/javascript)) or equivalent
-* Understanding of variables, data types, control flow, and basic function usage in JavaScript
-* Strong intermediate knowledge of HTML, and at least basics of CSS
-* Basic jQuery knowledge (DOM interaction like adding/removing elements/classes, etc.)
+* At least one programming language, Matlab, python, or other languages if you are familiar with.
+* Understanding of variables, data types, vector, matrix and basic function usage in your chosen programming language.
+* Basic knowledge of Mathematical Analysis and Linear Algebra.
 
-These won't be enforced by the instructor, but you will be pretty lost without understanding those concepts. If you need a refresher, take a look at the [Beginner Materials](#beginner-materials).
+These won't be enforced by the instructor, but you will be pretty lost without understanding those concepts. If you need a refresher, take a look at the beginner material we will upload.
 
 ## Course Overview
 
@@ -224,63 +223,27 @@ Bonus points for:
 
 ## Resources
 
-### Required Reading
-
-* [Google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html)
-* [JavaScript Garden](http://bonsaiden.github.com/JavaScript-Garden/)
-* [Mozilla's Introduction to Object-Oriented Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Introduction_to_Object-Oriented_JavaScript)
-* [What’s so great about JavaScript Promises?](http://blog.parse.com/learn/engineering/whats-so-great-about-javascript-promises/)
 
 ### Beginner Materials
 
 This class assumes you are confident with this material, but in case you need a brush-up...
 
-* Codecademy – [JavaScript](https://www.codecademy.com/learn/javascript) and [jQuery](https://www.codecademy.com/learn/jquery)
-* [Eloquent JavaScript](http://eloquentjavascript.net/index.html) by Marijn Haverbeke, Chapters 1-5
-* [Want to learn JavaScript in 2015?](https://medium.com/@_cmdv_/i-want-to-learn-javascript-in-2015-e96cd85ad225)
-* [How jQuery Works](https://learn.jquery.com/about-jquery/how-jquery-works/)
-* see also – [Other Lists](#other-lists)
 
 ### Recommended Reading
 
-* [Functional JavaScript](http://shop.oreilly.com/product/0636920028857.do) by Michael Fogus
-* [Front-end Job Interview Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) by @darcyclarke (for testing yourself)
-* [JavaScript Best Practices](http://www.thinkful.com/learn/javascript-best-practices-1/)
-* [JavaScript Patterns](http://shichuan.github.io/javascript-patterns/) by @shichuan (thanks @iandrewfuchs)
-* [JavaScript Patterns](http://www.amazon.com/JavaScript-Patterns-Stoyan-Stefanov/dp/0596806752) by Stoyan Stephanov
-* [JavaScript Web Applications](http://www.amazon.com/JavaScript-Web-Applications-Alex-MacCaw/dp/144930351X/) by Alex MacCaw
-* [JavaScript: The Good Parts](http://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742) by Douglas Crockford
-* [Learning Advanced JavaScript slides](http://ejohn.org/apps/learn/) by John Resig
-* [Static Web Apps](http://www.staticapps.org/)
-* [Test-Driven JavaScript Development](http://www.amazon.com/Test-Driven-JavaScript-Development-Developers-Library/dp/0321683919) by Christian Johansen
-* [The JavaScript Interpreter, Interpreted](http://www.slideshare.net/marthakelly/js-interpreter-interpreted) by Martha Girdler [(video)](https://www.youtube.com/watch?v=iSxNCYcPAFk)
+* Finite Difference Methods for Ordinary and Partial Differential Equations Author: Randall J.LeVeque
+* Basical Partial Differential Equation Author: David Bleecker, George Csordas
+* 偏微分方程数值解法 李荣华
+
 
 #### Specific Topics
 
-* [Classical Inheritance in JavaScript](http://www.crockford.com/javascript/inheritance.html) by Douglas Crockford
-* [Partial Application in JavaScript](http://benalman.com/news/2012/09/partial-application-in-javascript/) by Ben Alman (thanks @michaelBenin)
-* [HTML5 Rocks](http://www.html5rocks.com)
-* [Learning JavaScript Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/) by Addy Osmani
 
-#### Other Lists
-
-* [JS: The Right Way](http://www.jstherightway.org/) (an overview of the JS landscape)
-* [Code School](https://www.codeschool.com/paths/javascript)
-* Thoughtbot's [Javascript Trail Map](https://upcase.com/javascript)
-* [How To Learn JavaScript Properly](http://javascriptissexy.com/how-to-learn-javascript-properly/)
-* [Superhero.js](http://superherojs.com)
-* [Teach Yourself to Code](http://teachyourselftocode.com/javascript)
 
 ### Tools
 
-* code validation: [JSLint](http://jslint.com) / [JSHint](http://jshint.com)
-* debugging:
-    * [Chrome Developer Tools](https://developer.chrome.com/devtools/index)
-        * [Official debugging tutorial](https://developer.chrome.com/extensions/tut_debugging)
-        * Tutorial: [JavaScript Diagnosis](http://www.macwright.org/2015/03/10/javascript-diagnosis.html)
-    * [Firefox Developer Edition](https://www.mozilla.org/en-US/firefox/developer/)
-* sharing code snippets: [gist.github.com](https://gist.github.com/)
-* asking questions: [Stack Overflow](http://stackoverflow.com/)
+* Matlab
+* Python Numpy, Scipy, Matplotlib
 
 #### GitHub
 
@@ -291,31 +254,12 @@ This class assumes you are confident with this material, but in case you need a 
     * [Official site](https://pages.github.com/)
     * [Thinkful guide](http://www.thinkful.com/learn/a-guide-to-using-github-pages/)
 
-#### HTML/CSS/JS Sandboxes
-
-* [JS Bin](http://jsbin.com/) (recommended)
-* [bl.ocks.org](http://bl.ocks.org/)
-* [Cloud9](https://c9.io/)
-* [CodePen](http://codepen.io/pen/)
-* [JSFiddle](http://jsfiddle.net/)
-* [Mozilla Thimble](https://thimble.mozilla.org)
-* [Plunker](http://plnkr.co/)
-* [rawgithub.com](http://rawgit.com/)
-
-#### Frameworks
-
-* Framework comparison: [TodoMVC](http://todomvc.com)
-* [Testing](https://coderwall.com/p/ntbixw)
 
 ### Reference
 
-* [Mozilla Developer Network](https://developer.mozilla.org/en/JavaScript) and [Learn JavaScript](https://developer.mozilla.org/en-US/learn/javascript)
-* [w3schools](http://www.w3schools.com/jsref/default.asp)
-* [JavaScript: The Definitive Guide](http://shop.oreilly.com/product/9780596000486.do) by David Flanagan
-* [Simplified JavaScript Jargon](http://jargon.js.org/)
 * Javascript reference [advanced-js/syllabus](https://github.com/advanced-js/syllabus)
 
 ### More Examples
 
-* [map/reduce](http://jsbin.com/ojapAsUR/2/edit?js) (in [Underscore](http://underscorejs.org/#map))
+* 
 
