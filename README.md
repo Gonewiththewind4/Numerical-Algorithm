@@ -3,8 +3,8 @@ layout: default
 permalink: /
 ---
 
-# <img src="assets/logo.png" alt="class logo" class="logo"/> 
-# <img src="assets/jilinUniversitylogo.png" alt="class logo" class="logo"/> 
+<img src="assets/logo.png" alt="class logo" class="logo"/> 
+<img src="assets/jilinUniversitylogo.png" alt="class logo" class="logo"/> 
 # Numerical Algorithm
 [//]: # (comment)
 
@@ -33,6 +33,9 @@ These won't be enforced by the instructor, but you will be pretty lost without u
 We will dive into the basic algorithm, and the nuances of them. Practical tools in Python and Matlab will be discussed, but we do not recommond you use that when you try to comprehend the numerical algorithms.  The focus will be on complexity, convergency, and stability.  Topics covered include:
 
 * 
+*
+*
+
 
 Topics will be demonstrated through live-code examples/slides, available at [https://github.com/Gonewiththewind4/Numerical-Algorithm/tree/master](https://github.com/Gonewiththewind4/Numerical-Algorithm/tree/master).  Additional exercises will completed in wiki.
 
@@ -51,6 +54,10 @@ All assignments are listed within the [Content Outline](#content-outline).
 ## Content Outline
 
 ### Numerical Algebra
+
+*
+*
+*
 
 
 
