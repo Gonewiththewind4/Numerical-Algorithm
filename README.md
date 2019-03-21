@@ -47,7 +47,7 @@ See [perface] for  background.
 
 ## Homework/Projects
 
-All assignments are listed within the [Course Outline](#course-outline).
+All assignments are listed within the [Content Outline](#content-outline).
 
 ### Workflow
 
@@ -69,9 +69,6 @@ When the pull request is created, you should see a message saying that "the Trav
 
 Feedback will be given in the pull request, so please respond with your thoughts and questions!  You are welcome to open the pull request early as a work-in-progress if you are stuck and want to ask a question.  Note that your solution will also be live at `http://USERNAME.github.io/EXERCISE`.
 
-#### Versions
-
-For exercises with multiple Versions (`V1`, `V2`, etc.) listed in the README: these are intended as guidelines for how to complete the assignments in the smallest/simplest possible increments.  You are expected to reach the highest Version for each assignment by the due date. See also: [extra credit](#extra-credit).
 
 ### Requirements
 
@@ -87,8 +84,24 @@ These apply to real life, as well.
 * Any borrowed code must be properly [annotated](#instructor).
 
 
-## Course Outline
+## Content Outline
 
+### Numerical Algebra
+
+
+
+### Numerical Approximate
+
+
+
+### NPDE
+
+
+
+### NSDE
+
+
+### MC
 
 
 ## Resources
