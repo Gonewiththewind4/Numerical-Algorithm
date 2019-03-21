@@ -32,18 +32,11 @@ These won't be enforced by the instructor, but you will be pretty lost without u
 
 We will dive into the basic algorithm, and the nuances of them. Practical tools in Python and Matlab will be discussed, but we do not recommond you use that when you try to comprehend the numerical algorithms.  The focus will be on complexity, convergency, and stability.  Topics covered include:
 
-* Encapsulation, closures and scope
-* Classical vs. prototypal inheritance
-* The event loop
-* AJAX and JSONP
-    * local
-    * remote (e.g. Foursquare)
-* Creating MVC-style models (a'la Backbone.js) from scratch
-* Test- and Pseudocode-Driven Development
+* 
 
 Topics will be demonstrated through live-code examples/slides, available at [https://github.com/Gonewiththewind4/Numerical-Algorithm/tree/master](https://github.com/Gonewiththewind4/Numerical-Algorithm/tree/master).  Additional exercises will completed in wiki.
 
-See [perface] for  background.
+See [perface](upload later) for  background.
 
 ## Projects/Code Review/Code reproduction
 
