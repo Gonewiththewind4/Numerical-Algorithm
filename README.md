@@ -13,15 +13,12 @@ permalink: /
 
 * **Discussion:** If you'd like to discuss anything to do with the content you can write a message on Gitter 
    * [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/Numerical-Algorithm/community#)
-* **Bugs/Suggestions:** If you find any bugs in this syllabus or would like to make a suggestions please raise an [issue](https://github.com/OOPA2018/syllabus/issues) (GitHub account required)
-* **Updates:** The syllabus will be updated to include links to lectures and problem sheets as they get released. Minor modifications may also happen. Please [watch it](https://help.github.com/articles/watching-and-unwatching-repositories/) to get notified of any changes (GitHub account requried)
+* **Bugs/Suggestions:** If you find any bugs in this syllabus or would like to make a suggestions please raise an [issue](https://github.com/Gonewiththewind4/Numerical-Algorithm/issues) (GitHub account required)
+* **Updates:** The repository will be updated to include links to its Wiki, instruction and references as they get released. Minor modifications may also happen. Please [watch it](https://help.github.com/articles/watching-and-unwatching-repositories/) to get notified of any changes (GitHub account requried)
 
 
-## Course Description
+## Numerical Algorithm Repository Description
 
-Learn best practices in JavaScript in this intensive, five-session course. Topics include data encapsulation, closures, binding, inheritance, and name spacing. Discover some of the lesser-known, yet useful, features of the language, such as how to debug JavaScript problems on different browsers and improve performance. Create interactive webpages using third-party JavaScript libraries.
-
-Computers are provided in the lab, though you are encouraged to bring a laptop for in-class exercises.
 
 ## Prerequisites
 
@@ -337,3 +334,6 @@ This class assumes you are confident with this material, but in case you need a 
 Reuse and building upon ideas or code are major parts of modern software development.  As a professional programmer you will never write anything from scratch.  This class is structured such that all solutions are public.  You are encouraged to learn from the work of your peers.  I won't hunt down people who are simply copying-and-pasting solutions, because without challenging themselves, they  are simply wasting their time and money taking this class.
 
 Please respect the terms of use and/or license of any code you find, and if you reimplement or duplicate an algorithm or code from elsewhere, credit the original source with an inline comment.
+
+##Reference
+* ** Javascript reference [advanced-js/syllabus](https://github.com/advanced-js/syllabus)
