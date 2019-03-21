@@ -45,43 +45,14 @@ Topics will be demonstrated through live-code examples/slides, available at [adv
 
 See [perface] for  background.
 
-## Homework/Projects
+## Projects/Code Review/Code reproduction
 
 All assignments are listed within the [Content Outline](#content-outline).
 
-### Workflow
-
-If you're using GitHub Desktop, these general instructions will help:
-
-* <https://guides.github.com/activities/forking/>
-* <https://help.github.com/desktop/guides/contributing/>
-
-Enabling `Edit`->`Automatically Sync after Committing` is recommended. Here are the steps:
-
-1. Fork the repository for the exercise/project (found under [github.com/Gonewiththewind4/Numerical-Algorithm](https://github.com/Gonewiththewind4/Numerical-Algorithm)).
-1. Clone the repository to your computer.
-1. Make sure all of your code is committed.
-1. Push/sync up to GitHub.
-1. [Create a pull request](https://help.github.com/articles/creating-a-pull-request/) on the original repository. All assignments are due at the start of the following class, unless otherwise specified.
-1. You can continue to push fixes and improvements until the close date (listed in Classes) – just add a comment in the pull request to let me know it's been updated.
-
-When the pull request is created, you should see a message saying that "the Travis CI build is in progress" – this means that your solution is being automatically checked for syntax errors.  If this "build" ends up failing (which will show a red "X"), click through the "details" link and scroll to the bottom to see what the errors were.  Per the [requirements](#requirements) below, please fix the issues and push up the changes.
-
-Feedback will be given in the pull request, so please respond with your thoughts and questions!  You are welcome to open the pull request early as a work-in-progress if you are stuck and want to ask a question.  Note that your solution will also be live at `http://USERNAME.github.io/EXERCISE`.
 
 
-### Requirements
 
-These apply to real life, as well.
 
-* [Travis CI](https://docs.travis-ci.com/) build should pass if you want to use it. For matlab codes, please try Jenkins for continous integration.
-* Must apply "good programming style" learned in class
-    * Functions should be "short" (see [Sandi Metz's rules for developers](https://robots.thoughtbot.com/sandi-metz-rules-for-developers)).
-    * Optimize for readability.
-        * ["Programs must be written for people to read, and only incidentally for machines to execute." -Harold Abelson](https://www.goodreads.com/quotes/9168-programs-must-be-written-for-people-to-read-and-only)
-    * Avoid using anonymous callbacks within other functions, especially if the callback is more than one or two lines.
-    * For projects, use Object-Oriented Programming.
-* Any borrowed code must be properly [annotated](#instructor).
 
 
 ## Content Outline
@@ -102,6 +73,8 @@ These apply to real life, as well.
 
 
 ### MC
+
+### Advanced Topic
 
 
 ## Resources
@@ -136,7 +109,40 @@ This class assumes you are confident with this material, but in case you need a 
 * GitHub Pages
     * [Official site](https://pages.github.com/)
     * [Thinkful guide](http://www.thinkful.com/learn/a-guide-to-using-github-pages/)
+ 
+### Workflow
 
+If you're using GitHub Desktop, these general instructions will help:
+
+* <https://guides.github.com/activities/forking/>
+* <https://help.github.com/desktop/guides/contributing/>
+
+Enabling `Edit`->`Automatically Sync after Committing` is recommended. Here are the steps:
+
+1. Fork the repository for the exercise/project (found under [github.com/Gonewiththewind4/Numerical-Algorithm](https://github.com/Gonewiththewind4/Numerical-Algorithm)).
+1. Clone the repository to your computer.
+1. Make sure all of your code is committed.
+1. Push/sync up to GitHub.
+1. [Create a pull request](https://help.github.com/articles/creating-a-pull-request/) on the original repository. All assignments are due at the start of the following class, unless otherwise specified.
+1. You can continue to push fixes and improvements until the close date (listed in Classes) – just add a comment in the pull request to let me know it's been updated.
+
+When the pull request is created, you should see a message saying that "the Travis CI build is in progress" – this means that your solution is being automatically checked for syntax errors.  If this "build" ends up failing (which will show a red "X"), click through the "details" link and scroll to the bottom to see what the errors were.  Per the [requirements](#requirements) below, please fix the issues and push up the changes.
+
+Feedback will be given in the pull request, so please respond with your thoughts and questions!  You are welcome to open the pull request early as a work-in-progress if you are stuck and want to ask a question.  Note that your solution will also be live at `http://USERNAME.github.io/EXERCISE`.
+
+
+### Program Skill Requirements
+
+These apply to real life, as well.
+
+* [Travis CI](https://docs.travis-ci.com/) build should pass if you want to use it. For matlab codes, please try Jenkins for continous integration.
+* Must apply "good programming style" learned in class
+    * Functions should be "short" (see [Sandi Metz's rules for developers](https://robots.thoughtbot.com/sandi-metz-rules-for-developers)).
+    * Optimize for readability.
+        * ["Programs must be written for people to read, and only incidentally for machines to execute." -Harold Abelson](https://www.goodreads.com/quotes/9168-programs-must-be-written-for-people-to-read-and-only)
+    * Avoid using anonymous callbacks within other functions, especially if the callback is more than one or two lines.
+    * For projects, use Object-Oriented Programming.
+* Any borrowed code must be properly [annotated](#instructor).
 
 ### Reference
 
