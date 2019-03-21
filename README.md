@@ -41,7 +41,7 @@ We will dive into the basic algorithm, and the nuances of them. Practical tools 
 * Creating MVC-style models (a'la Backbone.js) from scratch
 * Test- and Pseudocode-Driven Development
 
-Topics will be demonstrated through live-code examples/slides, available at [advanced-js.github.io/deck](http://advanced-js.github.io/deck/).  Additional exercises will completed in wiki.
+Topics will be demonstrated through live-code examples/slides, available at [https://github.com/Gonewiththewind4/Numerical-Algorithm/tree/master](https://github.com/Gonewiththewind4/Numerical-Algorithm/tree/master).  Additional exercises will completed in wiki.
 
 See [perface] for  background.
 
