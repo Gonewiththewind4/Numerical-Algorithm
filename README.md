@@ -3,9 +3,9 @@ layout: default
 permalink: /
 ---
 
-# <img src="assets/logo.png" alt="class logo" class="logo"/> 
-# <img src="assets/jilinUniversitylogo.png" alt="class logo" class="logo"/> 
-# Numerical Algorithm
+#  <img src="assets/logo.png" alt="class logo" class="logo"/> 
+#  <img src="assets/jilinUniversitylogo.png" alt="class logo" class="logo"/> 
+#  Numerical Algorithm
 [//]: # (comment)
 
 
@@ -37,7 +37,7 @@ We will dive into the basic algorithm, and the nuances of them. Practical tools 
 *
 
 
-Topics will be demonstrated through live-code examples/slides, available at [https://github.com/Gonewiththewind4/Numerical-Algorithm/tree/master](https://github.com/Gonewiththewind4/Numerical-Algorithm/tree/master).  Additional exercises will completed in wiki.
+Topics will be demonstrated through live-code examples/slides, available at [Matlab Branch](https://github.com/Gonewiththewind4/Numerical-Algorithm/tree/master).  For additional code in python please see [Python Branch](https://github.com/Gonewiththewind4/Numerical-Algorithm/tree/python)
 
 See [perface](upload later) for  background.
 
