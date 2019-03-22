@@ -3,7 +3,7 @@ layout: default
 permalink: /
 ---
 
-<div align=center><img width = '150' height ='150' src ="assets/jilinUniversitylogo.png"/></div>
+<div align=center><img width = '450' height ='150' src ="assets/jilinUniversitylogo.png"/></div>
 
 <img src="assets/logo.png" alt="class logo" class="logo"/> 
 <img src="assets/jilinUniversitylogo.png" alt="class logo" class="logo"/> 
