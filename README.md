@@ -3,7 +3,7 @@ layout: default
 permalink: /
 ---
 
-<img width = '450' height = '120' src="assets/logo.png"/><img width = '450' height ='120' src ="assets/jilinUniversitylogo.png"/>
+<img width = '450' height = '100' src="assets/logo.png"/><img width = '420' height ='100' src ="assets/jilinUniversitylogo.png"/>
 
 [//]: # (<img src="assets/logo.png" alt="class logo" class="logo"/> <img src="assets/jilinUniversitylogo.png" alt="class logo" class="logo"/> )
 #  Numerical Algorithm
