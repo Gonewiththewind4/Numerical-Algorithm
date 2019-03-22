@@ -3,10 +3,9 @@ layout: default
 permalink: /
 ---
 
-<div align=center><img width = '450' height ='150' src ="assets/jilinUniversitylogo.png"/></div>
+<img width = '450' height ='150' src ="assets/jilinUniversitylogo.png"/>
 
-<img src="assets/logo.png" alt="class logo" class="logo"/> 
-<img src="assets/jilinUniversitylogo.png" alt="class logo" class="logo"/> 
+# <img src="assets/logo.png" alt="class logo" class="logo"/> <img src="assets/jilinUniversitylogo.png" alt="class logo" class="logo"/> 
 #  Numerical Algorithm
 [//]: # (comment)
 
