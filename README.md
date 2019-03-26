@@ -3,9 +3,9 @@
 layout: default
 permalink: /
 ---
-[//]: # (comment)
+
 <img width = '450' height = '100' src="assets/logo.png"/><img width = '420' height ='100' src ="assets/jilinUniversitylogo.png"/>
-[//]: # (<img src="assets/logo.png" alt="class logo" class="logo"/> <img src="assets/jilinUniversitylogo.png" alt="class logo" class="logo"/> )
+
 #  Numerical Algorithm
 * **Instructor:** Gonewiththewind4(Hans King), [3113488751@qq.com](mailto:3113488751@qq.com)
 
