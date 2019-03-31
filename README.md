@@ -1,9 +1,4 @@
 
----
-layout: default
-permalink: /
----
-
 <img width = '450' height = '100' src="assets/logo.png"/><img width = '420' height ='100' src ="assets/jilinUniversitylogo.png"/>
 
 #  Numerical Algorithm
