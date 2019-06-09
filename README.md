@@ -48,9 +48,6 @@ All assignments are listed within the [Content Outline](#content-outline).
 
 ### Numerical Algebra
 
-*
-*
-*
 
 
 
@@ -58,14 +55,16 @@ All assignments are listed within the [Content Outline](#content-outline).
 
 
 
-### NPDE
+### Numerical Partial Differential Equation
 
 
 
-### NSDE
+### Numerical Stochastic Differencial Equation
 
 
-### MC
+### Monte Carlo Method
+
+### Numerical Optimization
 
 
 ### Advanced Topic
