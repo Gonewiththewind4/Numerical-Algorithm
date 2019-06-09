@@ -1,4 +1,4 @@
-function x = Bisection(f,a,b,max,eps)
+function x = Bisection(a,b,max,eps)
 
 if sign(f(a)) == sign(f(b))
     disp('There is no real solution in this interva;')
